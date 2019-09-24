@@ -1,0 +1,7 @@
+C:\Users\Shivani.Lakshman\Documents\Impact\Task 6- Food Delivery Application\BingeBox\bin\Debug\BingeBox.exe.config
+C:\Users\Shivani.Lakshman\Documents\Impact\Task 6- Food Delivery Application\BingeBox\bin\Debug\BingeBox.exe
+C:\Users\Shivani.Lakshman\Documents\Impact\Task 6- Food Delivery Application\BingeBox\bin\Debug\BingeBox.pdb
+C:\Users\Shivani.Lakshman\Documents\Impact\Task 6- Food Delivery Application\BingeBox\obj\Debug\BingeBox.csprojAssemblyReference.cache
+C:\Users\Shivani.Lakshman\Documents\Impact\Task 6- Food Delivery Application\BingeBox\obj\Debug\BingeBox.csproj.CoreCompileInputs.cache
+C:\Users\Shivani.Lakshman\Documents\Impact\Task 6- Food Delivery Application\BingeBox\obj\Debug\BingeBox.exe
+C:\Users\Shivani.Lakshman\Documents\Impact\Task 6- Food Delivery Application\BingeBox\obj\Debug\BingeBox.pdb
